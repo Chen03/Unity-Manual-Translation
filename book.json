@@ -1,6 +1,6 @@
 {
     "title": "Unity Manual",
-    "author": "ハニヤスシン　ケイキ / blance",
+    "author": "Tomny Cui / blance",
     "description": "Unity Manual Translation",
     "language": "zh-hans",
     "links": {
@@ -12,6 +12,8 @@
         "-sharing",
         "-search",
         "back-to-top-button",
-        "chapter-fold"
+        "chapter-fold",
+        "search-pro",
+        "splitter"
     ]
 }

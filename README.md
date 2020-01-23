@@ -5,7 +5,9 @@ Unity Manual Translation
 
 ## 贡献者
 
-- Tomny Cui
+- [Tomnycui](https://tieba.baidu.com/home/main?un=Tomnycui)
+  - Paraselene Crescent Nox Eternis
+  - Algorithm Ether
 - blance
 
 ## 关于翻译

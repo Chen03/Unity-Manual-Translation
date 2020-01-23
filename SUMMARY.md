@@ -10,5 +10,3 @@
     - [Controlling GameObjects using components](ControllingGameObjectsComponents.md)
     - [Event Functions](EventFunctions.md)
     - [Time and Framerate Management](TimeFrameManagement.md)
-
-* [Gitee](https://www.gitee.com)
