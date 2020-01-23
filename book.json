@@ -1,0 +1,17 @@
+{
+    "title": "Unity Manual",
+    "author": "ハニヤスシン　ケイキ / blance",
+    "description": "Unity Manual Translation",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Offical Unity Manual": "https://docs.unity3d.com/"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "-search",
+        "back-to-top-button",
+        "chapter-fold"
+    ]
+}
