@@ -9,5 +9,5 @@
     * [Controlling GameObjects using components](./Scripting/Scripting Overview/ControllingGameObjectsComponents.md)
     * [Event Functions](./Scripting/Scripting Overview/EventFunctions.md)
     * [Time and Framerate Management](./Scripting/Scripting Overview/TimeFrameManagement.md)
-    * [Coroutines](Scripting\Scripting Overview\Coroutines.md)
     * [Creating and Destroying GameObjects](Scripting\Scripting Overview\CreateDestroyObjects.md)
+    * [Coroutines](Scripting\Scripting Overview\Coroutines.md)
