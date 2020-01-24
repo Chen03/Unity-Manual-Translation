@@ -33,7 +33,7 @@ function f2S(st, path) {
 
             filePath = path + "/" + file.name;
             fileTitle = getFileTitle(filePath);
-            thi += "  ".repeat((st - isSumMD(dirName, filePath))) + "* [" + fileTitle + "](\"" + filePath + "\")\n";
+            thi += "  ".repeat((st - isSumMD(dirName, filePath))) + "* [" + fileTitle + "](" + filePath + ")\n";
         } else {
             fail = false;
             for (i in ign) {
