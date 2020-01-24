@@ -11,3 +11,5 @@
     * [Time and Framerate Management](./Scripting/Scripting Overview/TimeFrameManagement.md)
     * [Creating and Destroying GameObjects](Scripting\Scripting Overview\CreateDestroyObjects.md)
     * [Coroutines](Scripting\Scripting Overview\Coroutines.md)
+    * [Namespaces](Scripting\Scripting Overview\Namespaces.md)
+    * [Attributes](Scripting\Scripting Overview\Attributes.md)
