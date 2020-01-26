@@ -13,3 +13,5 @@
     * [Coroutines](Scripting\Scripting Overview\Coroutines.md)
     * [Namespaces](Scripting\Scripting Overview\Namespaces.md)
     * [Attributes](Scripting\Scripting Overview\Attributes.md)
+    * [Order of Execution for Event Functions](Scripting\Scripting Overview\ExecutionOrder.md)
+    * [Understanding Automatic Memory Management](Scripting\Scripting Overview\UnderstandingAutomaticMemoryManagement.md)
