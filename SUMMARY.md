@@ -1,0 +1,17 @@
+# Summary
+
+* [Introduction](./README.md)
+* [Unity User Manual (2019.2)](./Unity_Manual.md)
+* [Scripting](./Scripting/ScriptingSection.md)
+  * [Scripting Overview](./Scripting/Scripting Overview/ScriptingConcepts.md)
+    * [Creating and Using Scripts](./Scripting/Scripting Overview/CreatingAndUsingScripts.md)
+    * [Variables and the Inspector](./Scripting/Scripting Overview/VariablesAndTheInspector.md)
+    * [Controlling GameObjects using components](./Scripting/Scripting Overview/ControllingGameObjectsComponents.md)
+    * [Event Functions](./Scripting/Scripting Overview/EventFunctions.md)
+    * [Time and Framerate Management](./Scripting/Scripting Overview/TimeFrameManagement.md)
+    * [Creating and Destroying GameObjects](Scripting\Scripting Overview\CreateDestroyObjects.md)
+    * [Coroutines](Scripting\Scripting Overview\Coroutines.md)
+    * [Namespaces](Scripting\Scripting Overview\Namespaces.md)
+    * [Attributes](Scripting\Scripting Overview\Attributes.md)
+    * [Order of Execution for Event Functions](Scripting\Scripting Overview\ExecutionOrder.md)
+    * [Understanding Automatic Memory Management](Scripting\Scripting Overview\UnderstandingAutomaticMemoryManagement.md)
